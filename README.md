@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Ken Uy; 👨🏻‍💻📚</h1>
-<h3 align="center">A work in progress Web Developer from the Philippines</h3>
+<h3 align="center">A Software Quality Assurance from the Philippines</h3>
 
--   🌱 I’m currently learning **PHP Track**
+-   🌱 I’m currently learning **Selenium Java**
 
 -   📫 How to reach me **kenerroluy@gmail.com**
 
