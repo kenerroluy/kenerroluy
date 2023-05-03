@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I am Ken Uy; 👨🏻‍💻📚</h1>
 <h3 align="center">A Software Quality Assurance from the Philippines</h3>
 
--   🌱 I’m currently learning **Selenium Java**
+-   🌱 I’m currently learning **ISTQB**
 
 -   📫 How to reach me **kenerroluy@gmail.com**
 
--   📄 Know about my experiences: V88 Batch 4 Trainee </p>
+-   📄 Know about my experiences: V88 Batch 4 - QA Trainee </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
