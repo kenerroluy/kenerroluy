@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I am Ken Uy; 👨🏻‍💻📚</h1>
+<h1 align="center">Hi, I am Ken Errol P. Uy, CTFL; 👨🏻‍💻📚</h1>
 <h3 align="center">A Software Quality Assurance from the Philippines</h3>
 
--   🌱 I’m currently learning **ISTQB**
+-   🌱 I’m currently learning **API Automation**
 
 -   📫 How to reach me **kenerroluy@gmail.com**
 
